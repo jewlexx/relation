@@ -6,6 +6,7 @@ use num_traits::Signed;
 /// Then it can calculate the next value based on the current value
 ///
 /// The concept is based on the Mathematic Recursion and Financial Modelling concept of relations
+#[derive(Debug, Copy, Clone)]
 pub struct Relation<I, F> {
     current_number: I,
     relation: F,
