@@ -2,6 +2,7 @@
 name = "relation"
 version = "0.1.0"
 edition = "2021"
+keywords = ["no_std", "mathematics"]
 repository = "https://github.com/jewlexx/relation"
 license = "MIT"
 description = "A simple library based on the mathematical concept of financial relations"
