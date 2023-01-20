@@ -1,3 +1,5 @@
+#![no_std]
+
 use num_traits::Signed;
 
 /// A structural representation of a relation
